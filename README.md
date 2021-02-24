@@ -6,7 +6,7 @@ This is an application that lets me practice using Heroku, NoSQL, and MongoDB
 ## Installation
 Either:
 
-- Download the files and run locally using the seeds to seed the database, followed with running the server with node
+- Download the files and run locally using the seeds to seed the database, followed with running the server with node. Then go to: http://localhost:7000/
 
 - Or go to the link where the app is running live, hosted by Heroku. Can be found here: 
 
