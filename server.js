@@ -22,8 +22,8 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
 });
 
 //pull in the routes for the server from the route directory
-//require("./route/view")(app);
-//require("./route/api")(app);
+require("./route/view")(app);
+require("./route/api")(app);
 
 //then have the server start to listen
 app.listen(PORT, () => {
