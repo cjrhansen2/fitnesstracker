@@ -15,7 +15,7 @@ Either:
 
 The app allows you to either start a new workout or continue your workout from before. You can add workouts, either resistance or cardio type, and keep track of your reps.
 
-![](burgerapp.png)
+![](workoutapp.png)
 
 
 ## Credits
