@@ -8,7 +8,7 @@ Either:
 
 - Download the files and run locally using the seeds to seed the database, followed with running the server with node. Then go to: http://localhost:7000/
 
-- Or go to the link where the app is running live, hosted by Heroku. Can be found here: 
+- Or go to the link where the app is running live, hosted by Heroku. Can be found here: https://calm-bayou-13284.herokuapp.com/?id=6063a28a20106c0015e8cd94
 
 
 ## Usage
